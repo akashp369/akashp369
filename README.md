@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashp369" alt="akashp369" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [akashp369.github.io]
+- 👨‍💻 All of my projects are available at [https://akashp369.github.io/](https://akashp369.github.io/)
 
 - 📫 How to reach me **aakashprajapat59@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akash-prajapat-09213824b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/akash-prajapat-09213824b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akash-prajapat-09213824b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-prajapat-09213824b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
