@@ -96,7 +96,7 @@ Monolithic job portal with JWT-based auth, role-based access control (Admin/Empl
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://akashp3696-github-io.vercel.app/" target="_blank">
+  <a href="https://akashp369-github-io.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
